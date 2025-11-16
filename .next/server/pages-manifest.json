@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/cases/[slug]": "pages/cases/[slug].js",
+  "/privacy-policy": "pages/privacy-policy.js",
+  "/": "pages/index.js",
+  "/terms": "pages/terms.js",
+  "/industry-information": "pages/industry-information.js",
+  "/industry-information/[category]/[slug]": "pages/industry-information/[category]/[slug].js",
+  "/services": "pages/services.js",
+  "/cases": "pages/cases.js"
+}
